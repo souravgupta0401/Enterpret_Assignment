@@ -67,6 +67,5 @@ public:
     void put(K key_, V value) override;
 };
 
-#include "cache.tpp"
 
 #endif // CACHE_H
